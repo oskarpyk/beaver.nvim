@@ -1,0 +1,19 @@
+# Plugin installation directory
+plugged/
+
+# Undo history
+undodir/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Node modules (for CoC)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
