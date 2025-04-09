@@ -1082,4 +1082,3 @@ nnoremap <leader>h <cmd>NvimTreeToggle<cr>
 
 
 " Ulysses command mapping
-nnoremap <silent> <nowait> <leader>uu :Ulysses<CR>
